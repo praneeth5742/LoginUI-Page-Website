@@ -1,6 +1,6 @@
 const form = document.getElementById("loginForm");
 const email = document.getElementById("email");
-const password = document.getElementById("password");
+const password = document.getElementById("password"); 
 const message = document.getElementById("message");
 
 form.addEventListener("submit", function (e) {
